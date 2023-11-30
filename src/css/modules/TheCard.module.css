@@ -21,3 +21,15 @@
 .content {
     padding: 10px;
 }
+
+.colorTag {
+    width: 30px;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.tagContainer {
+    margin-bottom: 30px;
+}
